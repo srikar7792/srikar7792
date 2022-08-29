@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Srikar Perala
+- I'm an Information Technlogy graduate, I coded from 2013 - 2017
+- But since then my role has changed and couldn't get my hands dirty coding
+- Planning to get back into coding as a hobby.
